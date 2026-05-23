@@ -3,8 +3,11 @@
   "version": "0.1.0",
   "private": "true",
   "scripts": {
+    {
+  "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next export"
     "postbuild": "next-sitemap",
     "start": "next start",
     "lint": "next lint"
