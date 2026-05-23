@@ -62,8 +62,10 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/nigiri',
-  assetPrefix: '/nigiri/',
+  basePath: '/Knowledge-Base
+',
+  assetPrefix: '/Knowledge-Base
+/',
 }
 
 module.exports = nextConfig
