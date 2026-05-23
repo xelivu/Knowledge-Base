@@ -56,3 +56,14 @@ module.exports = {
     ignoreDuringBuilds: false,
   },
 };
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  output: 'export',
+  images: {
+    unoptimized: true,
+  },
+  basePath: '/nigiri',
+  assetPrefix: '/nigiri/',
+}
+
+module.exports = nextConfig
