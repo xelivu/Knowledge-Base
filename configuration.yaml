@@ -1,0 +1,48 @@
+# Site settings:
+site_title: 'Nigiri'
+site_description: 'Demo version of Nigiri Next.js Template'
+
+# Profile:
+name: 'John'
+surname: 'Doe'
+professional_identity: 'Proffessional Magician'
+profile_picture: ''
+
+# "About me" page's paragraphs:
+about_me_paragraph: |
+
+  In eget imperdiet orci, convallis feugiat diam. Nam nec turpis tincidunt, diam ac, efficitur velit. In congue velit a nisi finibus, eget pulvinar lectus cursus. Duis risus ligula, eleifend rutrum velit ut, varius varius mauris. Duis sollicitudin diam ut fringilla cursus. Mauris efficitur, tortor ac pharetra aliquet, nunc eros interdum augue, ut velit velit ac urna.
+  eu arcu facilisis ligula rhoncus imperdiet ac eget turpis. Sed placerat porta orci quis volutpat.
+
+# Socials:
+github_username: 'test'
+github_icon: 'github.svg'
+
+linkedin_username: 'test'
+linkedin_icon: 'linkedin.svg'
+
+instagram_username: 'test'
+instagram_icon: 'instagram.svg'
+
+tumblr_username: 'test'
+tumblr_icon: 'tumblr.svg'
+
+steam_username: 'test'
+steam_icon: 'steam.svg'
+
+twitter_username: 'test'
+twitter_icon: 'twitter.svg'
+
+# Email btn
+email_address: 'test@gmail.com'
+
+# "Buy me a coffee" button:
+buyMeACoffee_username: 'devnyxie'
+
+# Other:
+profile_picture_border: true
+disable_about_me_page: false
+disable_animated_underline: false
+blog_preview_date_format: ''
+blog_preview_date_separators: '-'
+max_posts_per_page: '8'
